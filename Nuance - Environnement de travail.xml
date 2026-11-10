@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Scheme componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" guid="89A85C6F-0E85-49AE-B767-FCEEE1E6E96E" name="Nuance - Environnement de travail" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Scheme/2018/01">
+	<GlobalSettings>
+		<PaletteShapes Version="8">
+			<CoordBoxShape>Horizontal</CoordBoxShape>
+			<ControlBoxShape>Horizontal</ControlBoxShape>
+			<InfoBoxShape>Horizontal</InfoBoxShape>
+			<IsCoordBoxExtended>0</IsCoordBoxExtended>
+			<IsControlBoxExtended>0</IsControlBoxExtended>
+			<Is2DWindowMaximized>1</Is2DWindowMaximized>
+			<Is3DWindowMaximized>1</Is3DWindowMaximized>
+			<IsSectionWindowMaximized>1</IsSectionWindowMaximized>
+			<IsDetailWindowMaximized>1</IsDetailWindowMaximized>
+			<IsLayoutWindowMaximized>1</IsLayoutWindowMaximized>
+			<IsMasterLayoutWindowMaximized>1</IsMasterLayoutWindowMaximized>
+			<IsIESWindowMaximized>1</IsIESWindowMaximized>
+			<IsTOCWindowMaximized>1</IsTOCWindowMaximized>
+			<IsDocFrom3DWindowMaximized>1</IsDocFrom3DWindowMaximized>
+			<IsSingleWindow>1</IsSingleWindow>
+			<IsTabBarVisible>1</IsTabBarVisible>
+			<IsScrollBarVisible>0</IsScrollBarVisible>
+			<IsQuickOptionsBarVisible>1</IsQuickOptionsBarVisible>
+			<IsInfoBoxTabPageHeaderVisible>0</IsInfoBoxTabPageHeaderVisible>
+		</PaletteShapes>
+		<PaletteVisibilityTable>
+			<PaletteVisibility comment="Info Box" guid="2349A7DF-11A2-40CC-8D1B-26AF5866E4FD" value="1"/>
+			<PaletteVisibility comment="Navigator" guid="67EFFB84-7A18-4016-AA6F-729120CC1222" value="1"/>
+			<PaletteVisibility comment="Navigator Preview" guid="35288D13-ABAB-4CA8-B0B7-E0C6AA4CA396" value="0"/>
+			<PaletteVisibility comment="Organizer" guid="7B3B68EB-A2D4-4D8E-9696-459AF050E556" value="0"/>
+			<PaletteVisibility comment="Coordinates" guid="AC228150-2CB0-41A7-8127-1586BEFDE61A" value="0"/>
+			<PaletteVisibility comment="Control Box" guid="F289D275-EF9B-461B-BE2D-AFA45086A2F1" value="0"/>
+			<PaletteVisibility comment="Toolbox" guid="00A5EB17-F956-4B78-A2FD-91FDCBEEC98C" value="1"/>
+			<PaletteVisibility comment="Library Loading Report" guid="CE0AC5A4-B025-4EC5-A026-A5200740AED1" value="0"/>
+			<PaletteVisibility comment="Favorites" guid="C1D52DEC-BA28-429F-AE72-EE75DD0A2E45" value="1"/>
+			<PaletteVisibility comment="Quick Options" guid="53165719-A0B2-4CA1-BA81-53F3D8139C7F" value="0"/>
+			<PaletteVisibility comment="Markup" guid="48B68D38-45A0-46F5-91D7-4F7504BE04C3" value="0"/>
+			<PaletteVisibility comment="Markup Organizer" guid="DEAD5ACD-FFDD-4B5C-A997-CF2BCF84DFD6" value="0"/>
+			<PaletteVisibility comment="Drawing Manager" guid="623998C2-1D11-483D-811C-96D49DFC2E36" value="0"/>
+			<PaletteVisibility comment="Trace &amp; Reference" guid="EF3EE278-7642-40C3-8FF5-100D09E914ED" value="1"/>
+			<PaletteVisibility comment="Statusbar" guid="01B41879-1ED8-40CA-8DFA-0E4D13A8AFE6" value="1"/>
+			<PaletteVisibility comment="Check Markers" guid="B6909490-219F-45E3-9E54-4A4047193F7B" value="0"/>
+			<PaletteVisibility comment="Profile Manager" guid="A739AA2A-F93F-4E53-B306-57DA8DAD03DF" value="0"/>
+			<PaletteVisibility comment="Teamwork Palette" guid="EA48B0DB-31EE-43AF-9BD1-55EB28A4EC00" value="0"/>
+			<PaletteVisibility comment="Find &amp; Select" guid="6B326D11-A7AC-4E12-9AD3-EF7C4F2DF847" value="0"/>
+			<PaletteVisibility comment="Renovation" guid="484C8416-3A90-47B4-8511-FF50E11CE13C" value="0"/>
+			<PaletteVisibility comment="PhotoRendering Settings" guid="6E7F80CC-565C-4D21-814C-7D6865DFB6F2" value="0"/>
+			<PaletteVisibility comment="Surface Painter" guid="61D259A9-B286-40AE-971C-7F1FA8AEA8F4" value="0"/>
+			<PaletteVisibility comment="Change Manager" guid="CAD2E147-FB80-4DEB-BDF2-0A5446932D97" value="0"/>
+			<PaletteVisibility comment="Create Openings from Selection" guid="0DFB12CE-15B2-4398-8143-B2B52881C580" value="0"/>
+			<PaletteVisibility comment="Attribute Manager" guid="56B534D9-7FD7-45FE-A3F4-C8C90566CE07" value="0"/>
+			<PaletteVisibility comment="Detailed Change Palette" guid="ECE8C9BD-0F4D-49C2-9BC3-1EE78F70C70A" value="0"/>
+			<PaletteVisibility comment="Model Check Result Palette" guid="24474992-64B1-44E3-8254-9DC7632E3374" value="0"/>
+			<PaletteVisibility comment="Load Case Palette" guid="6C369619-EAF0-4DD6-85A7-FE35A350D2BB" value="0"/>
+			<PaletteVisibility comment="Design Options Palette" guid="763374F5-9A3A-4EF6-8ED0-4D6A748E9D23" value="0"/>
+			<PaletteVisibility comment="Keynotes Palette" guid="C0BCCA21-1A8B-40D7-B0B6-298DB5715275" value="0"/>
+			<PaletteVisibility comment="MEP System Browser Palette" guid="EAC308BA-D9D3-41B4-A1CC-6469193C7313" value="0"/>
+			<PaletteVisibility comment="Selections" guid="5D769D5E-15FD-4AFD-A7FF-933CD9F25AA7" value="0"/>
+			<PaletteVisibility comment="Quick Layers" guid="A9D0C7B3-B526-499A-A32D-83FDBB1C1280" value="1"/>
+			<PaletteVisibility comment="Element Information" guid="2C4391B8-5E53-44A4-913B-C31C235C4DD7" value="0"/>
+			<PaletteVisibility guid="ADD9A224-0A5C-4A61-B939-355C09E5668C" value="0"/>
+			<PaletteVisibility comment="Active Layers" guid="ED83CB58-B5C9-11DF-AEF0-1531E0D72085" value="0"/>
+			<PaletteVisibility comment="IFC Manager" guid="BED10FB5-30CD-42FA-ACA3-2CDC588A0C0E" value="0"/>
+			<PaletteVisibility guid="999BC126-921C-491E-8DB0-A4DC29F77DEE" value="0"/>
+			<PaletteVisibility guid="B7A2C1E4-5F3B-4A8C-9D2E-7F1A6B8C3E2D" value="0"/>
+			<PaletteVisibility guid="70E2E299-5CE1-417F-BE77-43A7FD7D0158" value="0"/>
+			<PaletteVisibility guid="3ACF3F34-0A8F-44F8-9C1F-5062E81CED13" value="0"/>
+			<PaletteVisibility comment="Energy Model Review" guid="C9D6961A-82C7-4BE6-BE6D-741BFD5B2531" value="0"/>
+			<PaletteVisibility comment="Éditer éléments de bibliothèque" guid="FC108CB0-A03E-402D-BDEA-1D9BA83C96E7" value="0"/>
+			<PaletteVisibility comment="Visualisation 3D" guid="8BA1592B-EC00-4B23-9366-5F64C107E6B1" value="0"/>
+			<PaletteVisibility comment="Attributs" guid="DC138AC5-8FB7-4E8F-BBBC-45663B531C23" value="1"/>
+			<PaletteVisibility comment="Partage" guid="74DB4F09-BE46-439E-B830-596DC479758E" value="0"/>
+			<PaletteVisibility comment="Navigation 3D classique" guid="3D9BD94E-9915-435F-9560-1FB12DF67869" value="0"/>
+			<PaletteVisibility comment="Éditer éléments" guid="D9AA2072-37CE-40D5-8732-E2FFEA7E386B" value="0"/>
+			<PaletteVisibility comment="Arrangement éléments" guid="0C4B027B-1AEC-40B3-BE7F-2D3D46D5FC06" value="0"/>
+			<PaletteVisibility comment="3D simple" guid="FD622EFE-524C-4A56-9BC3-AC5E7F3E4D85" value="0"/>
+			<PaletteVisibility comment="Mises en page et dessins" guid="2596D39E-A1FC-4E01-A435-AD08F1E2D8B6" value="0"/>
+			<PaletteVisibility comment="Options vue écran" guid="71767371-F6B8-41AB-9566-9820C1E8E8B5" value="1"/>
+			<PaletteVisibility comment="Mini Navigateur" guid="3C2AF371-22DE-41A7-B437-13A8E346779B" value="0"/>
+			<PaletteVisibility comment="Standard" guid="5B449954-460C-4EF2-9A83-1A02F25859B8" value="0"/>
+			<PaletteVisibility comment="Standard pour écrans basse résolution" guid="32925FE3-AAA2-4217-8300-C697B5149EE8" value="0"/>
+			<PaletteVisibility comment="Aides de dessin" guid="A0F0B4EA-9DE3-4872-AF10-8FA8B0DCB534" value="0"/>
+			<PaletteVisibility comment="Zoom" guid="5D1FA19D-0642-4950-8972-BE919485A68F" value="0"/>
+			<PaletteVisibility comment="Outils - Documentation" guid="347C28FA-04AF-4808-BB66-D5D0F976CC45" value="0"/>
+			<PaletteVisibility comment="Vérification du modèle" guid="BEEB0A2C-DE4F-4F19-8920-E0828F708A14" value="0"/>
+			<PaletteVisibility comment="Outils - Point de vue" guid="AC882C66-96D8-4948-9006-5D9527027794" value="0"/>
+			<PaletteVisibility comment="Outils - Architecture" guid="3284EB7C-DB5F-42DB-A9B9-6E67F18B0593" value="0"/>
+			<PaletteVisibility comment="Ingénierie structurelle" guid="6CEA760E-1C5D-42AC-9B0F-3FE5062BAC5E" value="0"/>
+			<PaletteVisibility comment="Outils - Ingénierie structurelle" guid="766302C5-8310-4386-B315-1A4D041F4E9A" value="0"/>
+			<PaletteVisibility comment="Outils - Ingénierie MEP" guid="247B3BDB-188B-449B-8059-65B34FFD1D26" value="0"/>
+			<PaletteVisibility comment="Charges structurelles" guid="4209CE20-12A8-4DF0-9CFC-B4425D0852D2" value="0"/>
+			<PaletteVisibility comment="Barre d&apos;outils MEP" guid="15B61127-AFE9-4A21-97C3-36E158F031AD" value="0"/>
+			<PaletteVisibility comment="Déplacer éléments" guid="09633B51-89CB-4640-A1AA-E63A8CCB8B9D" value="0"/>
+			<PaletteVisibility comment="BIM" guid="1A92A96B-2A5A-4244-A3B0-868C6D47721A" value="1"/>
+			<PaletteVisibility comment="Ahmed - Rangée 1" guid="5646ED67-CFFC-4E1C-B48E-A07A8ABCE984" value="1"/>
+			<PaletteVisibility comment="Ahmed - Outils" guid="1D6B6034-505A-4179-86E4-A9DADE399FFE" value="1"/>
+		</PaletteVisibilityTable>
+		<PaletteLayout>
+			<DialogLayoutScheme>
+				<DockedPalettes>
+					<DockedPaletteState comment="Standard" guid="5B449954-460C-4EF2-9A83-1A02F25859B8" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Navigator Preview" guid="35288D13-ABAB-4CA8-B0B7-E0C6AA4CA396" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Navigator" guid="67EFFB84-7A18-4016-AA6F-729120CC1222" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Info Box" guid="2349A7DF-11A2-40CC-8D1B-26AF5866E4FD" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Element Information" guid="2C4391B8-5E53-44A4-913B-C31C235C4DD7" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Toolbox" guid="00A5EB17-F956-4B78-A2FD-91FDCBEEC98C" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Coordinates" guid="22155583-1321-41A8-995B-B695CBF60C37" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Control Box" guid="D5BA7E9A-4523-4729-BD80-D5D81EE33832" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="4F806064-6EB1-411A-B699-35952FB5CE2B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Éditer éléments de bibliothèque" guid="FC108CB0-A03E-402D-BDEA-1D9BA83C96E7" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="54C3A9ED-87D0-4733-9A40-F2062D8F6FEE" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="106A2A78-3657-42C4-B520-D0D486913909" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Visualisation 3D" guid="8BA1592B-EC00-4B23-9366-5F64C107E6B1" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="F57AF0FF-BFFA-442F-8D49-FE7164AC2252" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="7F353D7C-5370-47CD-A5D8-D272397FE44B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="3EEA414D-F32F-4100-B6A0-C83B024090E7" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="589423FF-DB20-4C83-BCD5-06F895DF6782" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="3A590866-F7FB-4E7E-9C0E-D7377ADC5704" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Attributs" guid="DC138AC5-8FB7-4E8F-BBBC-45663B531C23" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="F186F5FE-E55C-4405-BA96-E988F6049875" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="5263AC38-C482-41A1-B292-078DA3D5BFC5" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="E4DA260D-50A9-4702-9820-C79F8D15890E" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Partage" guid="74DB4F09-BE46-439E-B830-596DC479758E" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Favorites" guid="C1D52DEC-BA28-429F-AE72-EE75DD0A2E45" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Coordinates" guid="D79E7DFB-CF2A-4C07-8764-F1641A75F113" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Control Box" guid="38199AC8-2D04-482E-A9ED-67768515D111" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Coordinates" guid="F3FE5A7F-F802-430A-B324-66B75ED3B67B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Control Box" guid="435470A8-0EE1-4FAE-A58E-DD475C51A36D" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Coordinates" guid="3339CD6E-28D8-4674-8F8B-34F05A576543" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Control Box" guid="7BE2C6B8-0572-4E5E-9223-60EFDB1AB4E1" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="AB028FAB-1DE0-4347-9B30-50BA1327109E" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="DF62F3DD-BD0B-4760-8EF5-90435C368C82" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Navigation 3D classique" guid="3D9BD94E-9915-435F-9560-1FB12DF67869" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Quick Options" guid="53165719-A0B2-4CA1-BA81-53F3D8139C7F" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="1D0FAE2F-F4EC-44CC-A11D-738BDC1F7C54" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="A9498E93-1B04-4338-8902-9825598215E1" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="361A99A7-FB0E-4DC6-9F6C-2833DCCDF014" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="3E96A297-B909-4699-A565-CD1CD5D3051F" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="681C21C9-1EFA-41EE-8627-3FCE0409A0C2" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="0786E5A4-B0CF-4618-9981-ADC92AA9D04B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="1B6CDE75-6A66-4C2B-90CA-91CD350B3043" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="9AC9DA72-2453-4FDA-8563-4232F729C556" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Mini Navigateur" guid="3C2AF371-22DE-41A7-B437-13A8E346779B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Vérification du modèle" guid="BEEB0A2C-DE4F-4F19-8920-E0828F708A14" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Outils - Architecture" guid="3284EB7C-DB5F-42DB-A9B9-6E67F18B0593" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Outils - Ingénierie MEP" guid="247B3BDB-188B-449B-8059-65B34FFD1D26" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Éditer éléments" guid="D9AA2072-37CE-40D5-8732-E2FFEA7E386B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Arrangement éléments" guid="0C4B027B-1AEC-40B3-BE7F-2D3D46D5FC06" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Options vue écran" guid="71767371-F6B8-41AB-9566-9820C1E8E8B5" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Mises en page et dessins" guid="2596D39E-A1FC-4E01-A435-AD08F1E2D8B6" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="3D simple" guid="FD622EFE-524C-4A56-9BC3-AC5E7F3E4D85" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Standard pour écrans basse résolution" guid="32925FE3-AAA2-4217-8300-C697B5149EE8" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Check Markers" guid="B6909490-219F-45E3-9E54-4A4047193F7B" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Trace &amp; Reference" guid="EF3EE278-7642-40C3-8FF5-100D09E914ED" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Aides de dessin" guid="A0F0B4EA-9DE3-4872-AF10-8FA8B0DCB534" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Teamwork Palette" guid="EA48B0DB-31EE-43AF-9BD1-55EB28A4EC00" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Quick Layers" guid="A9D0C7B3-B526-499A-A32D-83FDBB1C1280" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Zoom" guid="5D1FA19D-0642-4950-8972-BE919485A68F" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Outils - Documentation" guid="347C28FA-04AF-4808-BB66-D5D0F976CC45" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="B98EEC65-92DE-4BE8-BC73-01449B5815D9" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Ingénierie structurelle" guid="6CEA760E-1C5D-42AC-9B0F-3FE5062BAC5E" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Charges structurelles" guid="4209CE20-12A8-4DF0-9CFC-B4425D0852D2" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Load Case Palette" guid="6C369619-EAF0-4DD6-85A7-FE35A350D2BB" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Barre d&apos;outils MEP" guid="15B61127-AFE9-4A21-97C3-36E158F031AD" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Déplacer éléments" guid="09633B51-89CB-4640-A1AA-E63A8CCB8B9D" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Centre d’apprentissage" guid="CB247ACD-75F4-4D06-B698-C23E496E6189" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Renovation" guid="484C8416-3A90-47B4-8511-FF50E11CE13C" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Design Options Palette" guid="763374F5-9A3A-4EF6-8ED0-4D6A748E9D23" value="0">
+					</DockedPaletteState>
+					<DockedPaletteState guid="08201A18-51AA-45B0-8AD0-885CF395529F" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="BIM" guid="1A92A96B-2A5A-4244-A3B0-868C6D47721A" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState guid="E5251CFD-F64B-48B0-89D4-315885DC9E93" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Ahmed - Rangée 1" guid="5646ED67-CFFC-4E1C-B48E-A07A8ABCE984" value="1">
+					</DockedPaletteState>
+					<DockedPaletteState comment="Ahmed - Outils" guid="1D6B6034-505A-4179-86E4-A9DADE399FFE" value="1">
+					</DockedPaletteState>
+				</DockedPalettes>
+				<FixedDockStates>
+					<FixedDockState comment="Standard" guid="5B449954-460C-4EF2-9A83-1A02F25859B8">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>7</MoveDeltaPositionY>
+						<Position>407</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="421, 212, 1375, 244" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Déplacer éléments" guid="09633B51-89CB-4640-A1AA-E63A8CCB8B9D">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>4</MoveDeltaPositionX>
+						<MoveDeltaPositionY>17</MoveDeltaPositionY>
+						<Position>1184</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="416, 256, 843, 288" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Coordinates" guid="22155583-1321-41A8-995B-B695CBF60C37">
+						<DockState>4</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>21</MoveDeltaPositionY>
+						<Position>389</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="144, 162, 767, 196" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Control Box" guid="D5BA7E9A-4523-4729-BD80-D5D81EE33832">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>13</MoveDeltaPositionX>
+						<MoveDeltaPositionY>25</MoveDeltaPositionY>
+						<Position>853</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="621, 284, 1142, 318" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="AB028FAB-1DE0-4347-9B30-50BA1327109E">
+						<DockState>1</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>14</MoveDeltaPositionX>
+						<MoveDeltaPositionY>2</MoveDeltaPositionY>
+						<Position>7</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="178, 97, 213, 613" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="F186F5FE-E55C-4405-BA96-E988F6049875">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>40</MoveDeltaPositionX>
+						<MoveDeltaPositionY>8</MoveDeltaPositionY>
+						<Position>291</Position>
+						<DockRow>3</DockRow>
+						<FloatingRect Rect="257, 359, 346, 389" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Partage" guid="74DB4F09-BE46-439E-B830-596DC479758E">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>58</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>22</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="314, 722, 669, 756" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="E4DA260D-50A9-4702-9820-C79F8D15890E">
+						<DockState>1</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>279</MoveDeltaPositionX>
+						<MoveDeltaPositionY>9</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="124, 169, 1637, 203" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="589423FF-DB20-4C83-BCD5-06F895DF6782">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>182</MoveDeltaPositionX>
+						<MoveDeltaPositionY>13</MoveDeltaPositionY>
+						<Position>40</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="163, 233, 576, 263" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="5263AC38-C482-41A1-B292-078DA3D5BFC5">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>5</MoveDeltaPositionX>
+						<MoveDeltaPositionY>15</MoveDeltaPositionY>
+						<Position>179</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="242, 336, 415, 370" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Attributs" guid="DC138AC5-8FB7-4E8F-BBBC-45663B531C23">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>15</MoveDeltaPositionY>
+						<Position>523</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="342, 250, 698, 274" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="3A590866-F7FB-4E7E-9C0E-D7377ADC5704">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>3</MoveDeltaPositionX>
+						<MoveDeltaPositionY>14</MoveDeltaPositionY>
+						<Position>186</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="207, 234, 437, 264" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="F57AF0FF-BFFA-442F-8D49-FE7164AC2252">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>3</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>562</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="250, 350, 358, 376" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="106A2A78-3657-42C4-B520-D0D486913909">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>4</MoveDeltaPositionX>
+						<MoveDeltaPositionY>14</MoveDeltaPositionY>
+						<Position>956</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="225, 313, 352, 347" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="7F353D7C-5370-47CD-A5D8-D272397FE44B">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>4</MoveDeltaPositionX>
+						<MoveDeltaPositionY>20</MoveDeltaPositionY>
+						<Position>676</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="192, 273, 300, 307" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Éditer éléments de bibliothèque" guid="FC108CB0-A03E-402D-BDEA-1D9BA83C96E7">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>21</MoveDeltaPositionX>
+						<MoveDeltaPositionY>34</MoveDeltaPositionY>
+						<Position>28</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="520, 168, 1174, 200" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Visualisation 3D" guid="8BA1592B-EC00-4B23-9366-5F64C107E6B1">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>217</MoveDeltaPositionX>
+						<MoveDeltaPositionY>17</MoveDeltaPositionY>
+						<Position>63</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="139, 209, 1081, 243" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="54C3A9ED-87D0-4733-9A40-F2062D8F6FEE">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>45</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>667</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="208, 296, 494, 326" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="3EEA414D-F32F-4100-B6A0-C83B024090E7">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>-13</MoveDeltaPositionX>
+						<MoveDeltaPositionY>65526</MoveDeltaPositionY>
+						<Position>701</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="723, 133, 790, 155" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="4F806064-6EB1-411A-B699-35952FB5CE2B">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>15</MoveDeltaPositionY>
+						<Position>788</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="234, 327, 377, 353" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Coordinates" guid="D79E7DFB-CF2A-4C07-8764-F1641A75F113">
+						<DockState>4</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>3</MoveDeltaPositionX>
+						<MoveDeltaPositionY>19</MoveDeltaPositionY>
+						<Position>22</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="144, 142, 857, 170" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Control Box" guid="38199AC8-2D04-482E-A9ED-67768515D111">
+						<DockState>4</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>11</MoveDeltaPositionX>
+						<MoveDeltaPositionY>28</MoveDeltaPositionY>
+						<Position>720</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="586, 291, 1438, 325" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="DF62F3DD-BD0B-4760-8EF5-90435C368C82">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>48</MoveDeltaPositionX>
+						<MoveDeltaPositionY>13</MoveDeltaPositionY>
+						<Position>195</Position>
+						<DockRow>3</DockRow>
+						<FloatingRect Rect="139, 205, 239, 235" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="A9498E93-1B04-4338-8902-9825598215E1">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>115</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>100</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="184, 265, 349, 295" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="361A99A7-FB0E-4DC6-9F6C-2833DCCDF014">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>1</MoveDeltaPositionX>
+						<MoveDeltaPositionY>13</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Navigation 3D classique" guid="3D9BD94E-9915-435F-9560-1FB12DF67869">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>76</MoveDeltaPositionX>
+						<MoveDeltaPositionY>10</MoveDeltaPositionY>
+						<Position>352</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="271, 598, 748, 632" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="3E96A297-B909-4699-A565-CD1CD5D3051F">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>20</MoveDeltaPositionY>
+						<Position>106</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="121, 164, 378, 198" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="681C21C9-1EFA-41EE-8627-3FCE0409A0C2">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>212</MoveDeltaPositionX>
+						<MoveDeltaPositionY>14</MoveDeltaPositionY>
+						<Position>50</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="201, 286, 687, 316" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="0786E5A4-B0CF-4618-9981-ADC92AA9D04B">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>20</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="280, 392, 510, 422" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Éditer éléments" guid="D9AA2072-37CE-40D5-8732-E2FFEA7E386B">
+						<DockState>1</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>99</MoveDeltaPositionX>
+						<MoveDeltaPositionY>11</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="200, 377, 1198, 411" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Mises en page et dessins" guid="2596D39E-A1FC-4E01-A435-AD08F1E2D8B6">
+						<DockState>3</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>20</MoveDeltaPositionX>
+						<MoveDeltaPositionY>25</MoveDeltaPositionY>
+						<Position>123</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="738, 228, 1313, 252" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="1B6CDE75-6A66-4C2B-90CA-91CD350B3043">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>4</MoveDeltaPositionX>
+						<MoveDeltaPositionY>16</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="9AC9DA72-2453-4FDA-8563-4232F729C556">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>20</MoveDeltaPositionX>
+						<MoveDeltaPositionY>4</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Mini Navigateur" guid="3C2AF371-22DE-41A7-B437-13A8E346779B">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>17</MoveDeltaPositionY>
+						<Position>864</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="330, 762, 589, 796" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Arrangement éléments" guid="0C4B027B-1AEC-40B3-BE7F-2D3D46D5FC06">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>299</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>145</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="185, 334, 897, 368" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="3D simple" guid="FD622EFE-524C-4A56-9BC3-AC5E7F3E4D85">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>34</MoveDeltaPositionX>
+						<MoveDeltaPositionY>8</MoveDeltaPositionY>
+						<Position>209</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="299, 680, 465, 712" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Options vue écran" guid="71767371-F6B8-41AB-9566-9820C1E8E8B5">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>3</MoveDeltaPositionX>
+						<MoveDeltaPositionY>18</MoveDeltaPositionY>
+						<Position>1203</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="949, 172, 1648, 196" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Standard pour écrans basse résolution" guid="32925FE3-AAA2-4217-8300-C697B5149EE8">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>190</MoveDeltaPositionX>
+						<MoveDeltaPositionY>12</MoveDeltaPositionY>
+						<Position>256</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="171, 292, 980, 326" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Aides de dessin" guid="A0F0B4EA-9DE3-4872-AF10-8FA8B0DCB534">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>22</MoveDeltaPositionX>
+						<MoveDeltaPositionY>34</MoveDeltaPositionY>
+						<Position>230</Position>
+						<DockRow>2</DockRow>
+						<FloatingRect Rect="615, 385, 1243, 417" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Quick Layers" guid="A9D0C7B3-B526-499A-A32D-83FDBB1C1280">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>19</MoveDeltaPositionY>
+						<Position>889</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="749, 342, 1038, 376" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Zoom" guid="5D1FA19D-0642-4950-8972-BE919485A68F">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>16</MoveDeltaPositionY>
+						<Position>1073</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Outils - Documentation" guid="347C28FA-04AF-4808-BB66-D5D0F976CC45">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>26</MoveDeltaPositionY>
+						<Position>3</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="108, 226, 700, 265" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Outils - Architecture" guid="3284EB7C-DB5F-42DB-A9B9-6E67F18B0593">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>26</MoveDeltaPositionY>
+						<Position>3</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="108, 266, 1000, 306" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Outils - Ingénierie MEP" guid="247B3BDB-188B-449B-8059-65B34FFD1D26">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>26</MoveDeltaPositionY>
+						<Position>3</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="108, 307, 1000, 347" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="B98EEC65-92DE-4BE8-BC73-01449B5815D9">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>16</MoveDeltaPositionX>
+						<MoveDeltaPositionY>27</MoveDeltaPositionY>
+						<Position>889</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="1140, 283, 1219, 315" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Ingénierie structurelle" guid="6CEA760E-1C5D-42AC-9B0F-3FE5062BAC5E">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Charges structurelles" guid="4209CE20-12A8-4DF0-9CFC-B4425D0852D2">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>1</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Load Case Palette" guid="6C369619-EAF0-4DD6-85A7-FE35A350D2BB">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>2</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="1571, 843, 1946, 903" ScaleFactor="175">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Barre d&apos;outils MEP" guid="15B61127-AFE9-4A21-97C3-36E158F031AD">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>2</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Design Options Palette" guid="763374F5-9A3A-4EF6-8ED0-4D6A748E9D23">
+						<DockState>0</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>-1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Keynotes Palette" guid="C0BCCA21-1A8B-40D7-B0B6-298DB5715275">
+						<DockState>0</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>-1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Attribute Manager" guid="56B534D9-7FD7-45FE-A3F4-C8C90566CE07">
+						<DockState>0</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>0</MoveDeltaPositionX>
+						<MoveDeltaPositionY>0</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>-1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="08201A18-51AA-45B0-8AD0-885CF395529F">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>2</MoveDeltaPositionX>
+						<MoveDeltaPositionY>15</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="374, 135, 1665, 183" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="BIM" guid="1A92A96B-2A5A-4244-A3B0-868C6D47721A">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>3</MoveDeltaPositionX>
+						<MoveDeltaPositionY>17</MoveDeltaPositionY>
+						<Position>286</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="339, 180, 463, 236" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState guid="E5251CFD-F64B-48B0-89D4-315885DC9E93">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>15</MoveDeltaPositionX>
+						<MoveDeltaPositionY>30</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="819, 175, 919, 239" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Ahmed - Rangée 1" guid="5646ED67-CFFC-4E1C-B48E-A07A8ABCE984">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>4</MoveDeltaPositionX>
+						<MoveDeltaPositionY>14</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>0</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+					<FixedDockState comment="Ahmed - Outils" guid="1D6B6034-505A-4179-86E4-A9DADE399FFE">
+						<DockState>2</DockState>
+						<State>0</State>
+						<MoveDeltaPositionX>6</MoveDeltaPositionX>
+						<MoveDeltaPositionY>10</MoveDeltaPositionY>
+						<Position>0</Position>
+						<DockRow>1</DockRow>
+						<FloatingRect Rect="0, 0, 0, 0" ScaleFactor="100">
+						</FloatingRect>
+					</FixedDockState>
+				</FixedDockStates>
+				<NotDockableRectsStr>
+					<NotDockableRect Rect="425, 298, 855, 436" ScaleFactor="100" id="000000000000000000007d9c">
+					</NotDockableRect>
+					<NotDockableRect Rect="156, 170, 371, 192" ScaleFactor="100" id="0000000000000000000006ad">
+					</NotDockableRect>
+					<NotDockableRect Rect="487, 423, 758, 453" ScaleFactor="100" id="47732f6438c147a600007e90">
+					</NotDockableRect>
+					<NotDockableRect Rect="288, 265, 991, 503" ScaleFactor="100" id="47732f64aa7f2a6000007e90">
+					</NotDockableRect>
+					<NotDockableRect Rect="906, 156, 1109, 229" ScaleFactor="100" id="47732f6495f75ec800000327">
+					</NotDockableRect>
+					<NotDockableRect Rect="559, 185, 721, 659" ScaleFactor="100" id="47732f643252171900007e9a">
+					</NotDockableRect>
+					<NotDockableRect Rect="1437, 192, 1731, 244" ScaleFactor="100" id="47246d6427133492000006b8">
+					</NotDockableRect>
+					<NotDockableRect Rect="190, 190, 405, 212" ScaleFactor="100" id="47732f6474913216000006ad">
+					</NotDockableRect>
+					<NotDockableRect Rect="570, 317, 1000, 455" ScaleFactor="100" id="47732f647491321600007d9c">
+					</NotDockableRect>
+					<NotDockableRect Rect="797, 224, 957, 639" ScaleFactor="100" id="47732f64ed4b82c500001771">
+					</NotDockableRect>
+					<NotDockableRect Rect="792, 352, 1054, 881" ScaleFactor="100" id="47246d64e03d5ebc00003c91">
+					</NotDockableRect>
+					<NotDockableRect Rect="1380, 929, 1431, 945" ScaleFactor="100" id="942A4E33-C745-45FC-8AEE-AFD37F6BA677">
+					</NotDockableRect>
+					<NotDockableRect Rect="1428, 181, 1682, 553" ScaleFactor="100" id="A739AA2A-F93F-4E53-B306-57DA8DAD03DF">
+					</NotDockableRect>
+					<NotDockableRect Rect="791, 265, 1129, 556" ScaleFactor="100" id="42332f37519f686400007efe">
+					</NotDockableRect>
+				</NotDockableRectsStr>
+				<SizeableFloatingRootNodes>
+					<SizeableDockData Rect="262, 326, 1091, 360" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Visualisation 3D" paletteGuid="8BA1592B-EC00-4B23-9366-5F64C107E6B1" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="161, 359, 918, 393" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Éditer éléments" paletteGuid="D9AA2072-37CE-40D5-8732-E2FFEA7E386B" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="383, 133, 1582, 988" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Drawing Manager" paletteGuid="623998C2-1D11-483D-811C-96D49DFC2E36" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="618, 199, 778, 565" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Navigator" paletteGuid="67EFFB84-7A18-4016-AA6F-729120CC1222" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="127, 196, 291, 411" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Control Box" paletteGuid="7BE2C6B8-0572-4E5E-9223-60EFDB1AB4E1" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="127, 196, 291, 322" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Control Box" paletteGuid="435470A8-0EE1-4FAE-A58E-DD475C51A36D" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="127, 161, 291, 343" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Coordinates" paletteGuid="3339CD6E-28D8-4674-8F8B-34F05A576543" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="127, 161, 291, 287" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Coordinates" paletteGuid="F3FE5A7F-F802-430A-B324-66B75ED3B67B" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="448, 689, 608, 825" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Quick Options" paletteGuid="53165719-A0B2-4CA1-BA81-53F3D8139C7F" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="618, 592, 780, 762" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Navigator Preview" paletteGuid="35288D13-ABAB-4CA8-B0B7-E0C6AA4CA396" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="724, 113, 1261, 1021" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Organizer" paletteGuid="7B3B68EB-A2D4-4D8E-9696-459AF050E556" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="334, 205, 681, 861" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Favorites" paletteGuid="C1D52DEC-BA28-429F-AE72-EE75DD0A2E45" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="433, 463, 758, 643" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Check Markers" paletteGuid="B6909490-219F-45E3-9E54-4A4047193F7B" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="1081, 327, 1265, 549" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Trace &amp; Reference" paletteGuid="EF3EE278-7642-40C3-8FF5-100D09E914ED" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="130, 240, 214, 335" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Teamwork Palette" paletteGuid="EA48B0DB-31EE-43AF-9BD1-55EB28A4EC00" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="781, 341, 991, 375" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Active Layers" paletteGuid="ED83CB58-B5C9-11DF-AEF0-1531E0D72085" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="615, 385, 1243, 417" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Aides de dessin" paletteGuid="A0F0B4EA-9DE3-4872-AF10-8FA8B0DCB534" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="148, 261, 525, 777" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Info Box" paletteGuid="2349A7DF-11A2-40CC-8D1B-26AF5866E4FD" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="124, 197, 1724, 983" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Centre d’apprentissage" paletteGuid="CB247ACD-75F4-4D06-B698-C23E496E6189" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="1427, 130, 1676, 721" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Element Information" paletteGuid="2C4391B8-5E53-44A4-913B-C31C235C4DD7" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="868, 325, 1052, 434" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Renovation" paletteGuid="484C8416-3A90-47B4-8511-FF50E11CE13C" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="265, 158, 449, 704" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Design Options Palette" paletteGuid="763374F5-9A3A-4EF6-8ED0-4D6A748E9D23" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="1427, 168, 1671, 993" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Keynotes Palette" paletteGuid="C0BCCA21-1A8B-40D7-B0B6-298DB5715275" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="1312, 135, 1672, 988" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Attribute Manager" paletteGuid="56B534D9-7FD7-45FE-A3F4-C8C90566CE07" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="299, 680, 465, 712" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="3D simple" paletteGuid="FD622EFE-524C-4A56-9BC3-AC5E7F3E4D85" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="374, 135, 1665, 183" ScaleFactor="100" Type="Floating">
+						<DockPalette paletteGuid="08201A18-51AA-45B0-8AD0-885CF395529F" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="738, 228, 1313, 252" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Mises en page et dessins" paletteGuid="2596D39E-A1FC-4E01-A435-AD08F1E2D8B6" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="949, 172, 1648, 196" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Options vue écran" paletteGuid="71767371-F6B8-41AB-9566-9820C1E8E8B5" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="421, 212, 1375, 244" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Standard" paletteGuid="5B449954-460C-4EF2-9A83-1A02F25859B8" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+					<SizeableDockData Rect="416, 256, 843, 288" ScaleFactor="100" Type="Floating">
+						<DockPalette comment="Déplacer éléments" paletteGuid="09633B51-89CB-4640-A1AA-E63A8CCB8B9D" ratio="0" visibility="false">
+						</DockPalette>
+					</SizeableDockData>
+				</SizeableFloatingRootNodes>
+				<SizeableRootNode>
+					<SizeableDockData Rect="-1, 70, 1920, 966" ScaleFactor="100" Type="Docked">
+						<DockNode orientation="vertical" ratio="380000">
+							<DockPalette comment="Toolbox" paletteGuid="00A5EB17-F956-4B78-A2FD-91FDCBEEC98C" ratio="4c000" visibility="true">
+							</DockPalette>
+							<DockNode orientation="horizontal" ratio="b5000">
+								<DockPalette comment="Info Box" paletteGuid="2349A7DF-11A2-40CC-8D1B-26AF5866E4FD" ratio="380000" visibility="true">
+								</DockPalette>
+								<DockPalette comment="Renovation" paletteGuid="484C8416-3A90-47B4-8511-FF50E11CE13C" ratio="f63" visibility="false">
+								</DockPalette>
+							</DockNode>
+							<DockNode orientation="horizontal" ratio="58e000">
+								<DockNode orientation="vertical" ratio="380000">
+									<DockPalette comment="Centre d’apprentissage" paletteGuid="CB247ACD-75F4-4D06-B698-C23E496E6189" ratio="b9000" visibility="false">
+									</DockPalette>
+									<DockNode orientation="horizontal" ratio="dc000">
+										<DockPalette comment="Design Options Palette" paletteGuid="763374F5-9A3A-4EF6-8ED0-4D6A748E9D23" ratio="f65" visibility="false">
+										</DockPalette>
+										<DockPalette comment="Favorites" paletteGuid="C1D52DEC-BA28-429F-AE72-EE75DD0A2E45" ratio="380000" visibility="true">
+										</DockPalette>
+									</DockNode>
+									<WorkSpace ratio="4b2000">
+									</WorkSpace>
+								</DockNode>
+								<DockPalette comment="Check Markers" paletteGuid="B6909490-219F-45E3-9E54-4A4047193F7B" ratio="a6000" visibility="false">
+								</DockPalette>
+							</DockNode>
+							<DockPalette comment="Teamwork Palette" paletteGuid="EA48B0DB-31EE-43AF-9BD1-55EB28A4EC00" ratio="aa000" visibility="false">
+							</DockPalette>
+							<DockNode orientation="horizontal" ratio="f2000">
+								<DockPalette comment="Navigator" paletteGuid="67EFFB84-7A18-4016-AA6F-729120CC1222" ratio="37f09e" visibility="true">
+								</DockPalette>
+								<DockPalette comment="Trace &amp; Reference" paletteGuid="EF3EE278-7642-40C3-8FF5-100D09E914ED" ratio="f62" visibility="true">
+								</DockPalette>
+								<DockPalette comment="Navigator Preview" paletteGuid="35288D13-ABAB-4CA8-B0B7-E0C6AA4CA396" ratio="102127" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Quick Options" paletteGuid="53165719-A0B2-4CA1-BA81-53F3D8139C7F" ratio="9d594" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Coordinates" paletteGuid="F3FE5A7F-F802-430A-B324-66B75ED3B67B" ratio="1ae05" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Coordinates" paletteGuid="3339CD6E-28D8-4674-8F8B-34F05A576543" ratio="1ae05" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Control Box" paletteGuid="435470A8-0EE1-4FAE-A58E-DD475C51A36D" ratio="1ae05" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Control Box" paletteGuid="7BE2C6B8-0572-4E5E-9223-60EFDB1AB4E1" ratio="1ae05" visibility="false">
+								</DockPalette>
+								<DockPalette comment="Element Information" paletteGuid="2C4391B8-5E53-44A4-913B-C31C235C4DD7" ratio="1ae05" visibility="false">
+								</DockPalette>
+							</DockNode>
+						</DockNode>
+					</SizeableDockData>
+				</SizeableRootNode>
+			</DialogLayoutScheme>
+		</PaletteLayout>
+	</GlobalSettings>
+</Scheme>

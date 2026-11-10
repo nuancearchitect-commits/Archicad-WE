@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile guid="2253317D-BDBA-44E0-8892-F4BEE1D115C2" name="Nuance - Environnement de travail - 29" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Profile/2005/01">
+	<SchemeRef componentType="6FCD168F-A26C-4547-AF9D-ED9A5FC54DD7" componentTypeName="Disposition des Commandes" guid="F3798064-C1FF-4226-AD70-2BFE1EE1D312" name="Nuance - Espace de travail"/>
+	<SchemeRef componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" componentTypeName="Espace de travail" guid="89A85C6F-0E85-49AE-B767-FCEEE1E6E96E" name="Nuance - Environnement de travail"/>
+	<SchemeRef componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" componentTypeName="Préférences utilisateur" guid="3BDB96A0-E209-42D2-8202-A129AB5478DF" name="Nuance - Préférence utilisateur"/>
+	<SchemeRef componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" componentTypeName="Normes internes" guid="39A9E4F8-CD97-459D-BED0-9D2D7F6A2A5E" name="Nuance - Normes internes"/>
+	<SchemeRef componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" componentTypeName="Raccourci" guid="3D52D971-B627-439B-BBEC-503C72AC9C1F" name="Nuance - Raccourcis"/>
+	<SchemeRef componentType="AD074D1A-BFE2-48B7-B478-54652249B51D" componentTypeName="Outils" guid="17628524-49A5-4017-9F7E-2163EFCA4EE9" name="Nuance - Outils architecture"/>
+</Profile>

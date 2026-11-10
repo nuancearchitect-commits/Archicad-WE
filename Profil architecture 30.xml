@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile guid="3873B433-5E9E-473B-9DAB-B044F9AEB17C" name="Profil architecture 30" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Profile/2005/01">
+	<SchemeRef componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" componentTypeName="Normes internes" guid="73BFF98A-BB9A-4DBD-B9F2-AD83A715CA9F" name="Normes internes 30"/>
+	<SchemeRef componentType="AD074D1A-BFE2-48B7-B478-54652249B51D" componentTypeName="Outils" guid="E9E63CA9-1AC3-4396-A094-1F09E20B4316" name="Outils architecture 30"/>
+	<SchemeRef componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" componentTypeName="Préférences utilisateur" guid="32E6CFDD-9C04-4881-BCCE-9E4904E979C6" name="Préférences utilisateur standard 30"/>
+	<SchemeRef componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" componentTypeName="Raccourci" guid="1A45A2F9-499C-4A45-9A34-13AA0102640A" name="Raccourcis standards 30"/>
+	<SchemeRef componentType="6FCD168F-A26C-4547-AF9D-ED9A5FC54DD7" componentTypeName="Disposition des Commandes" guid="29F2E865-A79A-452A-B651-7096DA4AA063" name="Commandes standard 30"/>
+	<SchemeRef componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" componentTypeName="Espace de travail" guid="BB3359F0-B52B-432C-A3D8-2D36718267FE" name="Espace de travail architecture 30"/>
+</Profile>
