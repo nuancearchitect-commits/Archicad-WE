@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Scheme componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" guid="FFA2BEC7-50FB-525E-B16A-F5E2B30B5805" name="Nuance 30 - Raccourcis" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Scheme/2018/01">
+	<GlobalSettings>
+		<ShortcutContext guid="76D29F35-0E29-4DEF-ABFF-13E47B8DEF4E">
+			<CommandDescriptor command="513-0x00000000-0x00000000" comment="Nouveau...">
+				<Shortcut character="n" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="515-0x00000000-0x00000000" comment="&amp;Ouvrir...">
+				<Shortcut character="o" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="519-0x00000000-0x00000000" comment="Enregistrer &amp;sous...">
+				<Shortcut character="s" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6401-0x00000000-0x00000000" comment="&amp;Définir étage...">
+				<Shortcut character="7" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16900-0x00000000-0x00000000" comment="Altitude inférieure">
+				<Shortcut character="b" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16900-0x00000000-0x00000000" comment="Altitude inférieure">
+				<Shortcut character="b" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16902-0x00000000-0x00000000" comment="Coordonnée X">
+				<Shortcut character="x" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16903-0x00000000-0x00000000" comment="Coordonnée Y">
+				<Shortcut character="y" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16904-0x00000000-0x00000000" comment="Coordonnée Z">
+				<Shortcut character="z" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16905-0x00000000-0x00000000" comment="Rayon/Distance">
+				<Shortcut character="r" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16906-0x00000000-0x00000000" comment="Angle">
+				<Shortcut character="a" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16907-0x00000000-0x00000000" comment="Verrouiller coordonnée X">
+				<Shortcut character="x" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16907-0x00000000-0x00000000" comment="Verrouiller coordonnée X">
+				<Shortcut character="x" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16908-0x00000000-0x00000000" comment="Verrouiller coordonnée Y">
+				<Shortcut character="y" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16908-0x00000000-0x00000000" comment="Verrouiller coordonnée Y">
+				<Shortcut character="y" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16909-0x00000000-0x00000000" comment="Verrouiller coordonnée Z">
+				<Shortcut character="z" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16909-0x00000000-0x00000000" comment="Verrouiller coordonnée Z">
+				<Shortcut character="z" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16910-0x00000000-0x00000000" comment="Verrouiller rayon/distance">
+				<Shortcut character="r" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16910-0x00000000-0x00000000" comment="Verrouiller rayon/distance">
+				<Shortcut character="r" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16911-0x00000000-0x00000000" comment="Angle verrouillé">
+				<Shortcut character="a" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16911-0x00000000-0x00000000" comment="Angle verrouillé">
+				<Shortcut character="a" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16926-0x00000000-0x00000000" comment="Outil précédent dans la Boîte à outils">
+				<Shortcut modifiers="" specialKey="PageUp"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16927-0x00000000-0x00000000" comment="Outil suivant dans la Boîte à outils">
+				<Shortcut modifiers="" specialKey="PageDown"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16935-0x00000000-0x00000000" comment="Zoom avant">
+				<Shortcut character="+" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16934-0x00000000-0x00000000" comment="Défilement à droite">
+				<Shortcut modifiers="" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16933-0x00000000-0x00000000" comment="Défilement à gauche">
+				<Shortcut modifiers="" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16932-0x00000000-0x00000000" comment="Défilement vers bas">
+				<Shortcut modifiers="" specialKey="Down"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16931-0x00000000-0x00000000" comment="Défilement vers haut">
+				<Shortcut modifiers="" specialKey="Up"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16954-0x00000000-0x00000000" comment="Pousser à droite (plus fort)">
+				<Shortcut modifiers="Option|Shift" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16953-0x00000000-0x00000000" comment="Pousser à gauche (plus fort)">
+				<Shortcut modifiers="Option|Shift" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16952-0x00000000-0x00000000" comment="Pousser vers le bas (plus fort)">
+				<Shortcut modifiers="Option|Shift" specialKey="Down"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16951-0x00000000-0x00000000" comment="Pousser vers le haut (plus fort)">
+				<Shortcut modifiers="Option|Shift" specialKey="Up"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16958-0x00000000-0x00000000" comment="Pousser à droite">
+				<Shortcut modifiers="Shift" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16957-0x00000000-0x00000000" comment="Pousser à gauche">
+				<Shortcut modifiers="Shift" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16956-0x00000000-0x00000000" comment="Pousser vers le bas">
+				<Shortcut modifiers="Shift" specialKey="Down"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16955-0x00000000-0x00000000" comment="Pousser vers le haut">
+				<Shortcut modifiers="Shift" specialKey="Up"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="514-0x00000000-0x00000000" comment="Nouveau et redémarrer tout">
+				<Shortcut character="n" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2575-0x00000000-0x00000000" comment="Vue &amp;précédente">
+				<Shortcut character="^" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2576-0x00000000-0x00000000" comment="Vue s&amp;uivante">
+				<Shortcut character="$" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="11521-0x00000000-0x00000000" comment="Ouvrir nomenclature...">
+				<Shortcut modifiers="" specialKey="F9"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="10008-0x00000000-0x00000000" comment="Dernière mise en page">
+				<Shortcut modifiers="" specialKey="F10"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="531-0x00000000-0x00000000" comment="Enregistrer et placer vue sur mise en page">
+				<Shortcut modifiers="Command" specialKey="F10"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16914-0x00000000-0x00000000" comment="Gravitation">
+				<Shortcut character="v" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18947-0x00000000-0x00000000" comment="Préférer coordonnées XY dans Inspecteur">
+				<Shortcut character="!" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14338-0x00000000-0x00000000" comment="Ouvrir &amp;Objet...">
+				<Shortcut character="o" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="792-0x00000000-0x00000000" comment="Raccorder à toit à pan unique...">
+				<Shortcut character="0" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2562-0x00000000-0x00000000" comment="Re&amp;construire">
+				<Shortcut character="5" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2563-0x00000000-0x00000000" comment="Reconstruire et &amp;Regénérer">
+				<Shortcut character="5" modifiers="Command|Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1290-0x00000000-0x00000000" comment="Décomposer dans vue courante">
+				<Shortcut character="=" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1284-0x00000000-0x00000000" comment="Group&amp;es auto">
+				<Shortcut character="g" modifiers="Option|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1538-0x00000000-0x00000000" comment="&amp;Quadrillages et fond...">
+				<Shortcut character="8" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1542-0x00000000-0x00000000" comment="Stylos et couleur (Vues modèle)...">
+				<Shortcut character="p" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1547-0x00000000-0x00000000" comment="Catégories de &amp;Zone...">
+				<Shortcut character="z" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6404-0x00000000-0x00000000" comment="&amp;Aller à l&apos;étage...">
+				<Shortcut modifiers="Command|Shift" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15108-0x00000000-0x00000000" comment="&amp;Lignes cachées">
+				<Shortcut modifiers="Option|Shift" specialKey="F6"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2561-0x00000000-0x00000000" comment="Re&amp;dessiner">
+				<Shortcut character="5" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2564-0x00000000-0x00000000" comment="&amp;Agrandir">
+				<Shortcut character="+" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2565-0x00000000-0x00000000" comment="&amp;Réduire">
+				<Shortcut character="-" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2566-0x00000000-0x00000000" comment="R&amp;ecadrer">
+				<Shortcut character="," modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2568-0x00000000-0x00000000" comment="Opti&amp;miser">
+				<Shortcut character="*" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2571-0x00000000-0x00000000" comment="Mode Plein écran">
+				<Shortcut modifiers="" specialKey="F12"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16898-0x00000000-0x00000000" comment="Changer de méthode de construction">
+				<Shortcut character="c" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16936-0x00000000-0x00000000" comment="Zoom arrière">
+				<Shortcut character="-" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17162-0x00000000-0x00000000" comment="Lampe">
+				<Shortcut character="." modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17169-0x00000000-0x00000000" comment="Cote de niveau">
+				<Shortcut character="j" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17172-0x00000000-0x00000000" comment="Étiquette">
+				<Shortcut character="k" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17175-0x00000000-0x00000000" comment="Ligne">
+				<Shortcut character="l" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17176-0x00000000-0x00000000" comment="Cercle/Arc">
+				<Shortcut character=";" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17178-0x00000000-0x00000000" comment="Spline">
+				<Shortcut character=";" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17180-0x00000000-0x00000000" comment="Point chaud">
+				<Shortcut character="0" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="17183-0x00000000-0x00000000" comment="Caméra">
+				<Shortcut character="9" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2819-0x00000000-0x00000000" comment="Fenêtre 3D">
+				<Shortcut character="3" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20741-0x00000000-0x00000000" comment="Aller à la Mise en page précédente">
+				<Shortcut modifiers="Command" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20740-0x00000000-0x00000000" comment="Aller à la 1ère Mise en page">
+				<Shortcut modifiers="Command|Shift" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20741-0x00000000-0x00000000" comment="Aller à la Mise en page précédente">
+				<Shortcut modifiers="Option" specialKey="Left"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20743-0x00000000-0x00000000" comment="Aller à la Mise en page suivante">
+				<Shortcut modifiers="Shift" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20743-0x00000000-0x00000000" comment="Aller à la Mise en page suivante">
+				<Shortcut modifiers="Option" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="20744-0x00000000-0x00000000" comment="Aller à dernière Mise en page">
+				<Shortcut modifiers="Command|Shift" specialKey="Right"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1552-0x00000000-0x00000000" comment="Attraction élément">
+				<Shortcut character="e" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18971-0x00000000-0x00000000" comment="Activer valeur précédente de l&apos;Inspecteur">
+				<Shortcut character="*" modifiers="Shift"/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</GlobalSettings>
+	<ContextSettings guid="2085E4D3-5694-4BB9-ACAC-3AED5BE50091" name="Non Texte">
+		<ShortcutContext guid="2085E4D3-5694-4BB9-ACAC-3AED5BE50091">
+			<CommandDescriptor command="772-0x00000000-0x00000000" comment="Cou&amp;per">
+				<Shortcut character="x" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="773-0x00000000-0x00000000" comment="&amp;Copier">
+				<Shortcut character="c" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="774-0x00000000-0x00000000" comment="Co&amp;ller">
+				<Shortcut character="v" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="776-0x00000000-0x00000000" comment="Tout sélectionner">
+				<Shortcut character="a" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="769-0x00000000-0x00000000" comment="&amp;Annuler">
+				<Shortcut character="z" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="770-0x00000000-0x00000000" comment="&amp;Rétablir">
+				<Shortcut character="e" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="771-0x00000000-0x00000000" comment="R&amp;épéter dernière commande">
+				<Shortcut character="b" modifiers="Command|Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="797-0x00000000-0x00000000" comment="Options Outil">
+				<Shortcut character="b" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1793-0x00000000-0x00000000" comment="Points de &amp;vue...">
+				<Shortcut character="p" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15107-0x00000000-0x00000000" comment="Fil &amp;de fer">
+				<Shortcut character="6" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15108-0x00000000-0x00000000" comment="&amp;Lignes cachées">
+				<Shortcut character="4" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2573-0x00000000-0x00000000" comment="Zoom &amp;original">
+				<Shortcut character="h" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="800-0x00000000-0x00000000" comment="Injecter paramètres">
+				<Shortcut character="c" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7947-0x00000000-0x00000000" comment="Fixer sur Ligne guide / guide d&apos;attraction">
+				<Shortcut character="²" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18970-0x00000000-0x00000000" comment="Activer valeur suivante de l&apos;Inspecteur">
+				<Shortcut character="*" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18698-0x00000000-0x00000000" comment="Axonométrie">
+				<Shortcut character="1" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="19461-0x00000000-0x00000000" comment="Nouveau Document 3D...">
+				<Shortcut character="4" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7942-0x00000000-0x00000000" comment="Créer segment de Ligne guide">
+				<Shortcut character="7" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5380-0x00000000-0x00000000" comment="&amp;Distribution spéciale">
+				<Shortcut character="*" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="775-0x00000000-0x00000000" comment="Effacer">
+				<Shortcut character="w" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18690-0x00000000-0x00000000" comment="Explorer modèle">
+				<Shortcut character="8" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7171-0x00000000-0x00000000" comment="In&amp;tersection">
+				<Shortcut character="w" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18968-0x00000000-0x00000000" comment="Mesurer">
+				<Shortcut character="q" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15204-0x00000000-0x00000000" comment="Moteur 3D vectoriel">
+				<Shortcut character="5" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15110-0x00000000-0x00000000" comment="Moteur 3D accéléré au niveau du matériel">
+				<Shortcut character="6" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="795-0x00000000-0x00000000" comment="Opérations éléments solides...">
+				<Shortcut character="c" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18697-0x00000000-0x00000000" comment="Perspective">
+				<Shortcut character="2" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="15109-0x00000000-0x00000000" comment="&amp;Ombres">
+				<Shortcut character="3" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18960-0x00000000-0x00000000" comment="Définir Origine relative">
+				<Shortcut character="²" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="790-0x00000000-0x00000000" comment="&amp;Diviser">
+				<Shortcut character="f" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="785-0x00000000-0x00000000" comment="Déplacement &amp;vertical...">
+				<Shortcut character="b" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7682-0x00000000-0x00000000" comment="Environnement de travail...">
+				<Shortcut character="²" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="779-0x00000000-0x00000000" comment="Translati&amp;on">
+				<Shortcut character="d" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="780-0x00000000-0x00000000" comment="Rotat&amp;ion">
+				<Shortcut character="q" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="781-0x00000000-0x00000000" comment="S&amp;ymétrie">
+				<Shortcut character="s" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1805-0x00000000-0x00000000" comment="Afficher tout en 3D">
+				<Shortcut character="&apos;" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1807-0x00000000-0x00000000" comment="Afficher sélection en 3D">
+				<Shortcut character="(" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6402-0x00000000-0x00000000" comment="All&amp;er à étage +1">
+				<Shortcut character="&quot;" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6403-0x00000000-0x00000000" comment="Alle&amp;r à étage -1">
+				<Shortcut character="é" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2818-0x00000000-0x00000000" comment="Plan Étage">
+				<Shortcut character="&amp;" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920002-0x47732f64-0x004612f5" comment="Cotation intérieure...">
+				<Shortcut character="^" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920001-0x47732f64-0x004612f5" comment="Cotation extérieure...">
+				<Shortcut character="$" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="802-0x00000000-0x00000000" comment="Rotation avec copies multiples">
+				<Shortcut character="q" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="801-0x00000000-0x00000000" comment="Translation avec copies multiples">
+				<Shortcut character="d" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="788-0x00000000-0x00000000" comment="Étirer-Réd&amp;uire">
+				<Shortcut character="q" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="789-0x00000000-0x00000000" comment="Redi&amp;mensionner...">
+				<Shortcut character="s" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="791-0x00000000-0x00000000" comment="A&amp;juster">
+				<Shortcut character="d" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1285-0x00000000-0x00000000" comment="&amp;Verrouiller">
+				<Shortcut character="v" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1286-0x00000000-0x00000000" comment="Déve&amp;rrouiller">
+				<Shortcut character="v" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1561-0x00000000-0x00000000" comment="Matériaux de construction...">
+				<Shortcut character="m" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16967-0x00000000-0x00000000" comment="Modifier état de bascule">
+				<Shortcut character="x" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920001-0x47732f64-0x07b54282" comment="Informations Élément">
+				<Shortcut character="i" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5895-0x00000000-0x00000000" comment="Navigateur">
+				<Shortcut character="n" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5902-0x00000000-0x00000000" comment="Organisateur">
+				<Shortcut character="o" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5908-0x00000000-0x00000000" comment="Rénovation">
+				<Shortcut character="r" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5907-0x00000000-0x00000000" comment="Trace et comparaison">
+				<Shortcut character="t" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="2129920001-0x47732f64-0x32521719" comment="Sélections">
+				<Shortcut character="s" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1283-0x00000000-0x00000000" comment="&amp;Suspendre Groupes">
+				<Shortcut character="g" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1281-0x00000000-0x00000000" comment="&amp;Grouper">
+				<Shortcut character="g" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1282-0x00000000-0x00000000" comment="&amp;Dégrouper">
+				<Shortcut character="g" modifiers="Option"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14849-0x00000000-0x00000000" comment="&amp;Premier Plan">
+				<Shortcut modifiers="" specialKey="F8"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14850-0x00000000-0x00000000" comment="Un Plan en Ava&amp;nt">
+				<Shortcut modifiers="" specialKey="F7"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14851-0x00000000-0x00000000" comment="&amp;Un Plan en Arrière">
+				<Shortcut modifiers="" specialKey="F6"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="14852-0x00000000-0x00000000" comment="&amp;Arrière Plan">
+				<Shortcut modifiers="" specialKey="F5"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1544-0x00000000-0x00000000" comment="Hachures...">
+				<Shortcut character="h" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1546-0x00000000-0x00000000" comment="Surfaces...">
+				<Shortcut character="ù" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1545-0x00000000-0x00000000" comment="&amp;Structures composites...">
+				<Shortcut character="c" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1553-0x00000000-0x00000000" comment="Gestionnaire de profils...">
+				<Shortcut character="p" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="6657-0x00000000-0x00000000" comment="Calques (Vues modèle)...">
+				<Shortcut character="k" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1543-0x00000000-0x00000000" comment="Lignes...">
+				<Shortcut character="l" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="796-0x00000000-0x00000000" comment="Éditer sélection...">
+				<Shortcut character="e" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="518-0x00000000-0x00000000" comment="&amp;Enregistrer">
+				<Shortcut character="s" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1794-0x00000000-0x00000000" comment="Filtrer et couper éléments en 3D...">
+				<Shortcut character="f" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="866-0x00000000-0x00000000" comment="Couper élément supplémentaire avec percement">
+				<Shortcut character="," modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16960-0x00000000-0x00000000" comment="Contrainte décalée">
+				<Shortcut character="a" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16973-0x00000000-0x00000000" comment="Ouvrir menu déroulant Favoris pour outil dans Boîte à outils">
+				<Shortcut character="f" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5897-0x00000000-0x00000000" comment="Favoris">
+				<Shortcut character="f" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="21761-0x00000000-0x00000000" comment="Trace">
+				<Shortcut character="t" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="5905-0x00000000-0x00000000" comment="Gestionnaire de Dessins">
+				<Shortcut character="d" modifiers="Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="10249-0x00000000-0x00000000" comment="Épaisseur de ligne réelle">
+				<Shortcut character="e" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18976-0x00000000-0x00000000" comment="Guides de distance">
+				<Shortcut character="y" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="18945-0x00000000-0x00000000" comment="Éditer valeur dans Inspecteur">
+				<Shortcut character=":" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="786-0x00000000-0x00000000" comment="Multiplicatio&amp;n...">
+				<Shortcut character="j" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="7169-0x00000000-0x00000000" comment="Congé/Chanfrein...">
+				<Shortcut character="u" modifiers=""/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16897-0x00000000-0x00000000" comment="Changer de méthode de construction géométrique">
+				<Shortcut character="w" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16940-0x00000000-0x00000000" comment="Passe à l&apos;article précédent de la palette contextuelle">
+				<Shortcut modifiers="" specialKey="F2"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="16939-0x00000000-0x00000000" comment="Passe à l&apos;article suivant de la palette contextuelle">
+				<Shortcut modifiers="" specialKey="F3"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="863-0x00000000-0x00000000" comment="Options de transfert d&apos;élément...">
+				<Shortcut character="z" modifiers=""/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</ContextSettings>
+	<ContextSettings guid="2CAC215F-221C-420F-AAEB-8462A659B8D9" name="Texte">
+		<ShortcutContext guid="2CAC215F-221C-420F-AAEB-8462A659B8D9">
+			<CommandDescriptor command="1025-0x00000000-0x00000000" comment="&amp;Annuler">
+				<Shortcut character="z" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1026-0x00000000-0x00000000" comment="&amp;Rétablir">
+				<Shortcut character="z" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1027-0x00000000-0x00000000" comment="R&amp;épéter dernière commande">
+				<Shortcut character="b" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1028-0x00000000-0x00000000" comment="Cou&amp;per">
+				<Shortcut character="x" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1029-0x00000000-0x00000000" comment="&amp;Copier">
+				<Shortcut character="c" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1030-0x00000000-0x00000000" comment="Co&amp;ller">
+				<Shortcut character="v" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1032-0x00000000-0x00000000" comment="Tout &amp;sélectionner">
+				<Shortcut character="a" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1035-0x00000000-0x00000000" comment="Recherche sélec&amp;tion">
+				<Shortcut character="h" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1039-0x00000000-0x00000000" comment="C&amp;ommenter">
+				<Shortcut character="m" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1040-0x00000000-0x00000000" comment="&amp;Non commenter">
+				<Shortcut character="u" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1045-0x00000000-0x00000000">
+				<Shortcut character="h" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1046-0x00000000-0x00000000">
+				<Shortcut character="t" modifiers="Command|Shift"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1036-0x00000000-0x00000000" comment="Rechercher de no&amp;uveau">
+				<Shortcut character="g" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1037-0x00000000-0x00000000" comment="Re&amp;mplacer de nouveau">
+				<Shortcut character="t" modifiers="Command"/>
+			</CommandDescriptor>
+			<CommandDescriptor command="1043-0x00000000-0x00000000" comment="&amp;Vérifier script">
+				<Shortcut character="=" modifiers="Command"/>
+			</CommandDescriptor>
+		</ShortcutContext>
+	</ContextSettings>
+</Scheme>
